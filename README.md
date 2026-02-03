@@ -182,7 +182,7 @@ pytest
 ## 👤 Author
 
 **Rajas**
-Engineering Student | Python & Data Science Enthusiast
+Python & Data Science Enthusiast | Engineer Student
 
 ---
 
